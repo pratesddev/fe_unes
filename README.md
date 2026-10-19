@@ -22,7 +22,7 @@ O objetivo é praticar conceitos básicos de desenvolvimento front-end.
 
 ```text
 fe_unes/
-├── src/
+├── imagens/
 ├── public/
 ├── index.html
 ├── README.md
