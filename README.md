@@ -10,11 +10,15 @@
 
 ## 📋 Sobre o projeto
 
-Este projeto foi realizado afim de estudar HTML5 e CSS, a página foi apresentada no Curso Domine Web - 20 Cursos, na Udemy.
+Este projeto foi realizado afim de estudar HTML5, a página foi apresentada no Curso Domine Web - 20 Cursos, na Udemy.
 
 ### Objetivo
 
-O objetivo é praticar conceitos básicos de desenvolvimento front-end.
+O objetivo é praticar conceitos básicos de desenvolvimento front-end, entendendo sobre a estrutura de marcação de páginas.
+Neste projeto toda parte de estilização foi realizada inline no html, o portal foi desenvolvido utilizando tabelas, apenas para
+critérios didáticos.
+
+Como desafio futuro, será realizada a reescrita do portal utilizando layout moderno.
 
 ---
 
@@ -23,7 +27,6 @@ O objetivo é praticar conceitos básicos de desenvolvimento front-end.
 ```text
 fe_unes/
 ├── imagens/
-├── public/
 ├── index.html
 ├── README.md
 └── ...
